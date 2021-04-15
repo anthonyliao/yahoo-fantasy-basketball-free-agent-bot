@@ -1,0 +1,11 @@
+{
+    "league_id": "",
+    "team_id": "",
+    "player_ids_to_add": [
+        "395.p.6028",
+        "395.p.5370"
+    ],
+    "player_id_to_drop" : "395.p.5582",
+    "client_id": "",
+    "client_secret": ""
+}
